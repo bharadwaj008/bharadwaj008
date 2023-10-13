@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bharadwaj008
+- 👋 Hi, I’m bharadwaj
 - 👀 I’m interested in machine lerning and data science
-- 🌱 I’m currently learning python,java,sql
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python,machine learning,sql,EDA
+- 💞️ I’m looking to collaborate on machine learning and data science projects
 - 📫 How to reach me kamepalli.1bharadwaj@gmail.com
 
 <!---
